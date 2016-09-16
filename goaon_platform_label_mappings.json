@@ -28,5 +28,8 @@
    "PMELCO2_stratus": "M_168",
    "PMELCO2_twanoh": "M_175",
    "PMELCO2_whots": "M_180",
-   "HAKAI_Quadra1": "FOTS_27"
+   "HAKAI_Quadra1": "FOTS_27",
+   "IMOS_NRSKAI": "FOTS_130",
+   "IMOS_GBRWIS": "M_123",
+   "IMOS_NRSMAI": "M_143"
 }
