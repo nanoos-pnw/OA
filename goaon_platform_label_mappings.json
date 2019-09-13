@@ -40,5 +40,11 @@
    "IMOS_GBRWIS": "M_123",
    "IMOS_NRSMAI": "M_143",
    "CEAZA_Tongoy": "M_578",
-   "IMAR_ReloncvSeno": "M_657"
+   "IMAR_ReloncvSeno": "M_657",
+   "OOI_CE09OSSM": "M_560",
+   "OOI_CE07SHSM": "M_571",
+   "OOI_CE06ISSM": "M_567",
+   "OOI_CE04OSSM": "M_565",
+   "OOI_CE02SHSM": "M_563",
+   "OOI_CE01ISSM": "M_564"
 }
